@@ -18,7 +18,7 @@ https://control.peramix.com/?affid=14
 
 Eventualmente manteremos a versão mais atrasada a atualmente em comercialização. Podendo estar em algum momento atualizada.
 
-Versão 4.8.2 de 4.8.2.</br>
+Versão 4.8.2 de 4.8.5.</br>
 
 Não há suporte, gentileza não enviar e-mails ou chamar nas redes sociais, utilize a seção Issues do próprio Github.
 
